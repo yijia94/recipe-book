@@ -1,5 +1,5 @@
 ## new recipe chinese kung pao chicken
-Kung Pao Chicken
+# Kung Pao Chicken
 
 ## ingredient
 chicken
@@ -10,6 +10,8 @@ sugar
 ## steps
 wash chicken and pepper
 chop them
+
+## fix formating using markdown
 
 I dont like this dish at all!
 
